@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - team0
+  - team1
+  - ManipulationSystem
   layers:
   - Default
   - TransparentFX

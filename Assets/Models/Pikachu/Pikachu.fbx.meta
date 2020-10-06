@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 6d40aa8af078a48448bae6e64a254120
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 4772932613220411315
+    second: Pikachu_skeleton|attack0
+  - first:
+      74: -3742173634852681755
+    second: Pikachu_skeleton|attack1
+  - first:
+      74: -3960495467689677432
+    second: Pikachu_skeleton|attack2
+  - first:
+      74: -8863620470871033522
+    second: Pikachu_skeleton|attack3
+  - first:
+      74: 864345615351685844
+    second: Pikachu_skeleton|attack4
+  - first:
+      74: -6735276028190507103
+    second: Pikachu_skeleton|exhausted0
+  - first:
+      74: -122486179668106200
+    second: Pikachu_skeleton|falling0
+  - first:
+      74: 5530210285172547206
+    second: Pikachu_skeleton|falling1
+  - first:
+      74: -1561598294401221466
+    second: Pikachu_skeleton|happy0
+  - first:
+      74: -8756270883914736338
+    second: Pikachu_skeleton|happy1
+  - first:
+      74: 825125735236982568
+    second: Pikachu_skeleton|happy2
+  - first:
+      74: 3608267994513674776
+    second: Pikachu_skeleton|hurt0
+  - first:
+      74: 5004373557637213409
+    second: Pikachu_skeleton|hurt1
+  - first:
+      74: -4540809248753624433
+    second: Pikachu_skeleton|hurt3
+  - first:
+      74: 3686019841224677869
+    second: Pikachu_skeleton|hurt4
+  - first:
+      74: -2637716621777232628
+    second: Pikachu_skeleton|hurt5
+  - first:
+      74: -2378197843728398850
+    second: Pikachu_skeleton|idle0
+  - first:
+      74: -3129126459638928325
+    second: Pikachu_skeleton|idle1
+  - first:
+      74: -3495219255606574113
+    second: Pikachu_skeleton|idle2
+  - first:
+      74: 6847503736150048275
+    second: Pikachu_skeleton|idle3
+  - first:
+      74: -5518403797089278865
+    second: Pikachu_skeleton|idle4
+  - first:
+      74: -8071666800772083746
+    second: Pikachu_skeleton|idle5
+  - first:
+      74: -4670625275567951383
+    second: Pikachu_skeleton|idle6
+  - first:
+      74: 5156065720203027691
+    second: Pikachu_skeleton|idle7
+  - first:
+      74: 2844859453595549709
+    second: Pikachu_skeleton|idle8
+  - first:
+      74: -5094479838827593662
+    second: Pikachu_skeleton|jumping0
+  - first:
+      74: 4403112235043156205
+    second: Pikachu_skeleton|ko0
+  - first:
+      74: 9092728546215461829
+    second: Pikachu_skeleton|look_back
+  - first:
+      74: 715879162723548319
+    second: Pikachu_skeleton|run0
+  - first:
+      74: 2434814164443147145
+    second: Pikachu_skeleton|sleep0
+  - first:
+      74: 1199969475374803733
+    second: Pikachu_skeleton|sleep1
+  - first:
+      74: 3190916783372372232
+    second: Pikachu_skeleton|walk0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_BodyA1.tga
+    second: {fileID: 2100000, guid: fce4d2d97390e094291799a74ac204bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_BodyB1.tga
+    second: {fileID: 2100000, guid: 2cefffdeb88c7084f93791d09c59d9d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_Eye1.tga
+    second: {fileID: 2100000, guid: 28d05056558bf2c45af2b028200776e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pm0025_00_Mouth1.tga
+    second: {fileID: 2100000, guid: d01201b7d0cd5964e88c5be246a9fefd, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
